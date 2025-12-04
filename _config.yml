@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Sara-Viola Kuntz"
-  avatar           : "/assets/photo_kuntz.jpg"
+  avatar           : "/assets/photo_kuntz_quadrat.jpg"
   bio              : "PhD Student in Mathematics & Machine Learning"
   location         : "Munich, Germany"
   email            : "saraviola.kuntz@ma.tum.de"
