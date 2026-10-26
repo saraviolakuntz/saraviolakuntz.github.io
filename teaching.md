@@ -7,12 +7,20 @@ author_profile: true
 
 ## Thesis Supervision
 
-- Matteo Tonti, Master's thesis, jointly supervised with [Dr. Tobias Wöhrer](https://twoehrer.github.io/) and [Prof. Christian Kuehn](https://multiscale.systems)
-- Julian Rittmaier, Master's thesis, jointly supervised with [Dr. Tobias Wöhrer](https://twoehrer.github.io/) and [Prof. Christian Kuehn](https://multiscale.systems)
-- Lion Reichl, Master's thesis <br> 
+- Wanchen Li, Master's thesis, ongoing <br>
+jointly supervised with [Prof. Christian Kuehn](https://multiscale.systems)
+- Matteo Tonti, Master's thesis, 2026 <br>
+*Finite Time Lyapunov Exponents of Augmented Neural Ordinary Differential Equations* <br>
+jointly supervised with [Dr. Tobias Wöhrer](https://twoehrer.github.io/) and [Prof. Christian Kuehn](https://multiscale.systems)
+- Julian Rittmaier, Master's thesis, 2026 <br>
+*Local Parametric Redundancies of ReLU Neural ODEs* <br>
+jointly supervised with [Dr. Tobias Wöhrer](https://twoehrer.github.io/) and [Prof. Christian Kuehn](https://multiscale.systems)
+- Lion Reichl, Master's thesis, 2026 <br> 
 *Input-Dependent Echo State Properties for Continuous-Time Reservoirs* <br>
 jointly supervised with [Prof. Christian Kuehn](https://multiscale.systems)
-- Konrad Reichel, Master's thesis: *Trajectory-wise Time Rescaling in Controllability and Optimal Control Theory*, jointly supervised with [Dr. Tobias Wöhrer](https://twoehrer.github.io/) and [Prof. Christian Kuehn](https://multiscale.systems)
+- Konrad Reichel, Master's thesis, 2024 <br>
+*Trajectory-wise Time Rescaling in Controllability and Optimal Control Theory*, <br>
+jointly supervised with [Dr. Tobias Wöhrer](https://twoehrer.github.io/) and [Prof. Christian Kuehn](https://multiscale.systems)
 
 ## Course Organization
 
