@@ -19,7 +19,7 @@ jointly supervised with [Dr. Tobias Wöhrer](https://twoehrer.github.io/) and [P
 *Input-Dependent Echo State Properties for Continuous-Time Reservoirs* <br>
 jointly supervised with [Prof. Christian Kuehn](https://multiscale.systems)
 - Konrad Reichel, Master's thesis, 2024 <br>
-*Trajectory-wise Time Rescaling in Controllability and Optimal Control Theory*, <br>
+*Trajectory-wise Time Rescaling in Controllability and Optimal Control Theory* <br>
 jointly supervised with [Dr. Tobias Wöhrer](https://twoehrer.github.io/) and [Prof. Christian Kuehn](https://multiscale.systems)
 
 ## Course Organization
