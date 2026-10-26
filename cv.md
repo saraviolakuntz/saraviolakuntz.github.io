@@ -11,7 +11,8 @@ author_profile: true
 *since 10/2026*
 - Supervisor: [Prof. Sandra Hirche](https://www.professoren.tum.de/hirche-sandra)
 - Research group: [Chair of Information-oriented Control (ITR)](https://www.ce.cit.tum.de/en/itr/home/)
-- Project: [DFG Research Training Group METEOR](https://rtg-meteor.de/) Machine Learning & Control Theory <br>
+- Project: [DFG Research Training Group METEOR](https://rtg-meteor.de/) <br>
+  Machine Learning & Control Theory <br>
 
 **PhD Student**, [Technical University of Munich](https://www.tum.de/en/), Germany<br>
 *03/2022 - 08/2026*
