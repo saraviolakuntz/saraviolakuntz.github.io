@@ -24,8 +24,8 @@ jointly supervised with [Dr. Tobias Wöhrer](https://twoehrer.github.io/) and [P
 
 ## Course Organization
 
-- **[TUMMS – TUM Mathematics Scholarship](https://www.math.cit.tum.de/math/department/outreach-activities/schulportal/schuelerinnen/tumms/)** · *2023 - 2026*
-- **Introduction to Nonlinear Dynamics**, Master's course in mathematics · *10/2022 – 03/2023*
+- **[TUMMS – TUM Mathematics Scholarship](https://www.math.cit.tum.de/math/department/outreach-activities/schulportal/schuelerinnen/tumms/)**, *2023 - 2026*
+- **Introduction to Nonlinear Dynamics**, *10/2022 – 03/2023*
 
 ## Teaching Assistant
 
