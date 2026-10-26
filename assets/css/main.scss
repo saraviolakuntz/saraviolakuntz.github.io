@@ -14,3 +14,13 @@ search: false
   padding: 0;
   border: 0;
 }
+
+/* Smaller page titles and section headings */
+.page__title {
+  font-size: 1.25em;
+}
+
+.page__content h2 {
+  font-size: 1.05em;
+  padding-bottom: 0.3em;
+}
