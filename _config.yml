@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" #"mint" "air", "aqua", "dark", "dirt", "ne
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Sara-Viola Kuntz"
-title_separator          : "test"
+title_separator          : ""
 subtitle                 : ""
 name                     : "Sara-Viola Kuntz"
 description              : "Researcher at TU Munich"
@@ -118,7 +118,7 @@ analytics:
 author:
   name             : "Sara-Viola Kuntz"
   avatar           : "/assets/photo_kuntz.jpg"
-  bio              : "Research Associate<br>[DFG Research Training Group METEOR](https://rtg-meteor.de/) – Machine Learning & Control Theory"
+# bio              : "Research Associate<br>[DFG Research Training Group METEOR](https://rtg-meteor.de/) – Machine Learning & Control Theory"
   location         : "Munich, Germany"
   email            : "saraviola.kuntz@tum.de"
   links:
