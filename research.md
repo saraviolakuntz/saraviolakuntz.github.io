@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research lies at the intersection of dynamical systems, approximation theory of neural networks and differential topology, with a focus on expressivity bounds for non-augmented architectures such as ResNets, neural ODEs, neural DDEs and MLPs.
+My research lies at the intersection of dynamical systems, approximation theory, machine learning and control theory.
 
 A complete list is on [Google Scholar](https://scholar.google.com/citations?user=-vcnOHEAAAAJ&view_op=list_works&sortby=pubdate).
 
