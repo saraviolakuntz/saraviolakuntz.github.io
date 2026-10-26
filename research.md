@@ -6,8 +6,6 @@ author_profile: true
 
 My research lies at the intersection of dynamical systems, approximation theory, machine learning and control theory.
 
-A complete list can be found on [Google Scholar](https://scholar.google.com/citations?user=-vcnOHEAAAAJ&view_op=list_works&sortby=pubdate).
-
 ## Journal Articles
 
 - **Analysis of the Geometric Structure of Neural Networks and Neural ODEs via Morse Functions**<br>
