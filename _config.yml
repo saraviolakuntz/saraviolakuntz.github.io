@@ -21,7 +21,7 @@ title                    : "Sara-Viola Kuntz"
 title_separator          : "test"
 subtitle                 : ""
 name                     : "Sara-Viola Kuntz"
-description              : "My Website."
+description              : "Researcher at TU Munich"
 url                      : "https://saraviolakuntz.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -117,10 +117,10 @@ analytics:
 # Site Author
 author:
   name             : "Sara-Viola Kuntz"
-  avatar           : "/assets/photo_kuntz_quadrat.jpg"
-  bio              : "PhD Student in Mathematics & Machine Learning"
+  avatar           : "/assets/photo_kuntz.jpg"
+  bio              : "Research Associate<br>[DFG Research Training Group METEOR](https://rtg-meteor.de/) – Machine Learning & Control Theory"
   location         : "Munich, Germany"
-  email            : "saraviola.kuntz@ma.tum.de"
+  email            : "saraviola.kuntz@tum.de"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
