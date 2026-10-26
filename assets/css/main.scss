@@ -24,3 +24,8 @@ search: false
   font-size: 1.05em;
   padding-bottom: 0.3em;
 }
+
+/* Hide the name under the sidebar photo (it's already in the top bar) */
+.sidebar .author__name {
+  display: none;
+}
