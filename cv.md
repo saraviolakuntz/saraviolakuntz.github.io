@@ -11,19 +11,22 @@ author_profile: true
 *since 10/2026*
 - Supervisor: [Prof. Sandra Hirche](https://www.professoren.tum.de/hirche-sandra)
 - Research group: [Chair of Information-oriented Control (ITR)](https://www.ce.cit.tum.de/en/itr/home/)
-- Project: [DFG Research Training Group METEOR](https://rtg-meteor.de/) <br>
-  Machine Learning & Control Theory
+- Project: Machine Learning & Control Theory <br>
+  [DFG Research Training Group METEOR](https://rtg-meteor.de/) 
+  
 
 **PhD Student**, [Technical University of Munich](https://www.tum.de/en/), Germany<br>
 *03/2022 - 08/2026*
 - Supervisor: [Prof. Christian Kuehn](https://multiscale.systems)
 - Research group: [Multiscale and Stochastic Dynamics](https://math.cit.tum.de/en/math/research/groups/multiscale-stochastic-dynamics)
-- Project: [Multiscale Dynamics of Neural Networks via Stochastic Graphops](https://gepris.dfg.de/gepris/projekt/463883089)
+- Project: Multiscale Dynamics of Neural Networks via Stochastic Graphops <br>
+  [DFG SPP 2298 Theoretical Foundations of Deep Learning](https://www.foundationsofdl.de/)
 
 **Student Researcher**, [Technical University of Munich](https://www.tum.de/en/), Germany<br>
 *09/2020 – 02/2022*
 - Supervisors: [Prof. Christian Kuehn](https://multiscale.systems) and [Dr. Samuel Jelbart](https://sites.google.com/view/samueljelbart/home)
-- Project: Geometric Desingularization of Non-Hyperbolic Iterated Maps [DFG SFB/Transregio 109](https://www.discretization.de/)
+- Project: Geometric Desingularization of Non-Hyperbolic Iterated Maps <br>
+  [DFG SFB/Transregio 109](https://www.discretization.de/)
 
 ## Education
 
