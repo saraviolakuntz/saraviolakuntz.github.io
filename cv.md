@@ -1,17 +1,21 @@
 ---
 layout: single
-title: "CV"
+title: "Short CV"
 permalink: /cv/
 author_profile: true
 ---
 
 ## Positions
 
-**Research Associate**, [DFG Research Training Group METEOR](https://rtg-meteor.de/) – Machine Learning & Control Theory, Munich<br>
-*since MM/YYYY*
+**Research Associate**, [Technical University of Munich](https://www.tum.de/en/), Germany<br>
+
+- Supervisor: [Prof. Sandra Hirche](https://www.professoren.tum.de/hirche-sandra)
+- Research group: [Chair of Information-oriented Control (ITR)](https://www.ce.cit.tum.de/en/itr/home/)
+- Project: [DFG Research Training Group METEOR](https://rtg-meteor.de/) Machine Learning & Control Theory <br>
+*since 10/2026*
 
 **PhD Student**, [Technical University of Munich](https://www.tum.de/en/), Germany<br>
-*since 03/2022*
+*03/2022 - 08/2026*
 
 - Supervisor: [Prof. Christian Kuehn](https://multiscale.systems)
 - Research group: [Multiscale and Stochastic Dynamics](https://math.cit.tum.de/en/math/research/groups/multiscale-stochastic-dynamics)
