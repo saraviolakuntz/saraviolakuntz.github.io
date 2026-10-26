@@ -120,6 +120,7 @@ author:
   avatar           : "/assets/kuntz.jpg"
 # bio              : "Research Associate<br>[DFG Research Training Group METEOR](https://rtg-meteor.de/) – Machine Learning & Control Theory"
   location         : "Munich, Germany"
+  location_url     : "https://nav.tum.de/room/0305.04.522"
   email            : "saraviola.kuntz@tum.de"
   links:
     - label: "TUM ITR"
