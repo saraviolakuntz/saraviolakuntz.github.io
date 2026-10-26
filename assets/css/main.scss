@@ -5,6 +5,13 @@ search: false
 
 @charset "utf-8";
 
+/* Colours */
+$heading-color: #1d3557;      /* navy: page titles, section headings, your name */
+$link-color: #2a7a62;         /* green: links */
+$link-color-hover: $link-color;
+$link-color-visited: $link-color;
+$primary-color: $heading-color;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
@@ -55,4 +62,31 @@ search: false
 .page__footer {
   background-color: transparent;
   color: #6b6b6b !important;
+}
+
+/* Navy headings and site name */
+.page__title,
+.page__title a,
+.page__content h2,
+.page__content h3,
+.greedy-nav .site-title {
+  color: $heading-color;
+}
+
+/* No underlines anywhere, also not on hover */
+a,
+a:hover,
+a:focus,
+a:active {
+  text-decoration: none !important;
+}
+
+.greedy-nav .visible-links a:before {
+  display: none;
+}
+
+/* Sidebar icons in navy */
+.author__urls .fas,
+.author__urls .fab {
+  color: $heading-color;
 }
