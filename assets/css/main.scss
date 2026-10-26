@@ -29,3 +29,9 @@ search: false
 .sidebar .author__name {
   display: none;
 }
+
+/* Footer: no black box, copyright in grey */
+.page__footer {
+  background-color: transparent;
+  color: #6b6b6b !important;
+}
