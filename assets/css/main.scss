@@ -15,19 +15,40 @@ search: false
   border: 0;
 }
 
-/* Smaller page titles and section headings */
-.page__title {
+/* Page title ("Research") and site name in the top bar: same size */
+.page__title,
+.site-title {
   font-size: 1.25em;
 }
 
+/* Section headings */
 .page__content h2 {
   font-size: 1.05em;
   padding-bottom: 0.3em;
 }
 
+/* Smaller body text on larger screens (publications, About me, ...).
+   The h2 size is scaled up by the same factor so headings stay as they are. */
+@include breakpoint($large) {
+  .page__content {
+    font-size: 0.8em;
+  }
+
+  .page__content h2 {
+    font-size: 1.3125em; /* 1.05 / 0.8 */
+  }
+}
+
 /* Hide the name under the sidebar photo (it's already in the top bar) */
 .sidebar .author__name {
   display: none;
+}
+
+/* Space between photo and location/links */
+.author__urls-wrapper {
+  @include breakpoint($large) {
+    margin-top: 1.25em;
+  }
 }
 
 /* Footer: no black box, copyright in grey */
