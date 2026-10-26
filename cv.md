@@ -14,7 +14,6 @@ author_profile: true
 - Project: Machine Learning & Control Theory <br>
   [DFG Research Training Group METEOR](https://rtg-meteor.de/) 
   
-
 **PhD Student**, [Technical University of Munich](https://www.tum.de/en/), Germany<br>
 *03/2022 - 08/2026*
 - Supervisor: [Prof. Christian Kuehn](https://multiscale.systems)
@@ -32,12 +31,12 @@ author_profile: true
 
 **Master of Science in Mathematics**, [Technical University of Munich](https://www.tum.de/en/), Germany<br>
 *10/2020 – 02/2022*
-- Thesis: *Geometric Analysis of the Discrete Fast-Slow Fold Singularity*
+- Thesis: [*Geometric Analysis of the Discrete Fast-Slow Fold Singularity*](/assets/kuntz_msc_thesis.pdf)
 - Supervisors: [Prof. Christian Kuehn](https://multiscale.systems) and [Dr. Samuel Jelbart](https://sites.google.com/view/samueljelbart/home)
 
 **Bachelor of Science in Mathematics**, [Technical University of Munich](https://www.tum.de/en/), Germany<br>
 *10/2016 – 09/2020*
-- Thesis: *Directed Percolation: A Mathematical Framework*
+- Thesis: [*Directed Percolation: A Mathematical Framework*](/assets/kuntz_bsc_thesis.pdf)
 - Supervisors: [Prof. Christian Kuehn](https://multiscale.systems) and [Dr. Maximilian Engel](https://sites.google.com/view/maximilian-engel/home)
 
 ## Fellowships and Memberships
