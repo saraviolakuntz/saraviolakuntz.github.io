@@ -90,3 +90,8 @@ a:active {
 .author__urls .fab {
   color: $heading-color;
 }
+
+/* Less space between an entry's title/date and its bullet points */
+.page__content p + ul {
+  margin-top: -0.9em;
+}
