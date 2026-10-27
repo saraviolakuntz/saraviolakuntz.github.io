@@ -22,15 +22,11 @@ jointly supervised with [Prof. Christian Kuehn](https://multiscale.systems)
 *Trajectory-wise Time Rescaling in Controllability and Optimal Control Theory* <br>
 jointly supervised with [Dr. Tobias Wöhrer](https://twoehrer.github.io/) and [Prof. Christian Kuehn](https://multiscale.systems)
 
-## Course Organization
-
-- **[TUMMS – TUM Mathematics Scholarship](https://www.math.cit.tum.de/math/department/outreach-activities/schulportal/schuelerinnen/tumms/)**, *2023 - 2026*
-- **Introduction to Nonlinear Dynamics**, *10/2022 – 03/2023*
-
 ## Teaching Assistant
 
 - **Analysis 3**, *10/2024 – 03/2025*
 - **Analysis 2**, *04/2024 – 09/2024*
 - **Analysis 1**, *10/2023 – 03/2024*
+- **Introduction to Nonlinear Dynamics**, *10/2022 – 03/2023*
 - **Analysis 2**, *04/2019 – 09/2019*
 - **Analysis 1**, *10/2018 – 03/2019*
