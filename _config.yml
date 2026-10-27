@@ -119,16 +119,25 @@ author:
   name             : "Sara-Viola Kuntz"
   avatar           : "/assets/kuntz.jpg"
 # bio              : "Research Associate<br>[DFG Research Training Group METEOR](https://rtg-meteor.de/) – Machine Learning & Control Theory"
-  location         : "Munich, Germany"
-  location_url     : "https://nav.tum.de/room/0305.04.522"
-  email            : "saraviola.kuntz@tum.de"
+# location         : "Munich, Germany"
+# location_url     : "https://nav.tum.de/room/0305.04.522"
+#  email            : "saraviola.kuntz@tum.de"
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:saraviola.kuntz@tum.de"
+    - label: "Munich, Germany"
+      icon: "fas fa-fw fa-map-marker-alt"
+      url: "https://nav.tum.de/room/0305.04.522"
     - label: "TUM ITR"
       icon: "fas fa-fw fa-building-columns"
       url: "https://www.ce.cit.tum.de/itr/team/kuntz/"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google-scholar"
       url: "https://scholar.google.com/citations?user=-vcnOHEAAAAJ"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/sara-viola-kuntz-673b7620a"
 
 # Site Footer
 footer:
