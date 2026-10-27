@@ -7,21 +7,21 @@ author_profile: true
 
 ## Positions
 
-**Research Associate**, [Technical University of Munich](https://www.tum.de/en/), Germany<br>
+**Research Associate**, [Technical University of Munich](https://www.tum.de/en/)<br>
 *since 10/2026*
 - Supervisor: [Prof. Sandra Hirche](https://www.professoren.tum.de/hirche-sandra)
 - Research group: [Chair of Information-oriented Control (ITR)](https://www.ce.cit.tum.de/en/itr/home/)
 - Project: Machine Learning & Control Theory <br>
   [DFG Research Training Group METEOR](https://rtg-meteor.de/) 
   
-**PhD Student**, [Technical University of Munich](https://www.tum.de/en/), Germany<br>
+**PhD Student**, [Technical University of Munich](https://www.tum.de/en/)<br>
 *03/2022 - 08/2026*
 - Supervisor: [Prof. Christian Kuehn](https://multiscale.systems)
 - Research group: [Multiscale and Stochastic Dynamics](https://math.cit.tum.de/en/math/research/groups/multiscale-stochastic-dynamics)
 - Project: Multiscale Dynamics of Neural Networks via Stochastic Graphops <br>
   [DFG SPP 2298 Theoretical Foundations of Deep Learning](https://www.foundationsofdl.de/)
 
-**Student Researcher**, [Technical University of Munich](https://www.tum.de/en/), Germany<br>
+**Student Researcher**, [Technical University of Munich](https://www.tum.de/en/)<br>
 *09/2020 – 02/2022*
 - Supervisors: [Prof. Christian Kuehn](https://multiscale.systems) and [Dr. Samuel Jelbart](https://sites.google.com/view/samueljelbart/home)
 - Project: Geometric Desingularization of Non-Hyperbolic Iterated Maps <br>
@@ -29,12 +29,12 @@ author_profile: true
 
 ## Education
 
-**Master of Science in Mathematics**, [Technical University of Munich](https://www.tum.de/en/), Germany<br>
+**Master of Science in Mathematics**, [Technical University of Munich](https://www.tum.de/en/)<br>
 *10/2020 – 02/2022*
 - Thesis: [*Geometric Analysis of the Discrete Fast-Slow Fold Singularity*](/assets/kuntz_thesis_master.pdf)
 - Supervisors: [Prof. Christian Kuehn](https://multiscale.systems) and [Dr. Samuel Jelbart](https://sites.google.com/view/samueljelbart/home)
 
-**Bachelor of Science in Mathematics**, [Technical University of Munich](https://www.tum.de/en/), Germany<br>
+**Bachelor of Science in Mathematics**, [Technical University of Munich](https://www.tum.de/en/)<br>
 *10/2016 – 09/2020*
 - Thesis: [*Directed Percolation: A Mathematical Framework*](/assets/kuntz_thesis_bachelor.pdf)
 - Supervisors: [Prof. Christian Kuehn](https://multiscale.systems) and [Dr. Maximilian Engel](https://sites.google.com/view/maximilian-engel/home)
