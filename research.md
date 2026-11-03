@@ -21,7 +21,7 @@ My research lies at the intersection of dynamical systems, approximation theory,
 
 - **[A Dynamical Systems Perspective on the Analysis of Neural Networks](https://link.springer.com/book/9783032199188)**<br>
   [Dennis Chemnitz](https://math.ethz.ch/utils/search.MzY1ODE3.html?pagetype=people), [Maximilian Engel](https://sites.google.com/view/maximilian-engel/home), [Christian Kuehn](https://multiscale.systems), Sara-Viola Kuntz<br>
-  In: Bülte et al. (eds.), *Theoretical Foundations of Deep Learning*, Springer, to appear 2026 ([arXiv](https://arxiv.org/abs/2507.05164))
+  In: Bülte et al. (eds.), *Theoretical Foundations of Deep Learning*, Springer, to appear 2027 ([arXiv](https://arxiv.org/abs/2507.05164))
 
 ## Preprints
 
