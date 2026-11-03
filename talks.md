@@ -7,6 +7,8 @@ author_profile: true
 
 ## 2026
 
+- **SPP 2298 Annual Meeting**, Tutzing, Germany<br>
+  *11/2026, talk*
 - **SPP 2298 Summer School**, Raitenhaslach, Germany<br>
   *10/2026, poster*
 - **Workshop "A New Generation of Geometric Singular Perturbation Theory"**, CIRM, Trento, Italy<br>
